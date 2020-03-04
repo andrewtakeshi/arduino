@@ -1,6 +1,5 @@
 # Arduino
 
-### Description
 Contains code related to various arduino projects I'm working on. 
 
 ### Project Descriptions
